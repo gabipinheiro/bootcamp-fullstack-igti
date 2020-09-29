@@ -1,0 +1,14 @@
+/* App.js */
+
+.form {
+  display: flex;
+  align-self: center;
+  align-content: center;
+  flex-direction: row;
+  width: 100%;
+}
+
+label {
+  text-align: start;
+  margin: 30px;
+}
